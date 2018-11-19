@@ -1,0 +1,6 @@
+host=127.0.0.1
+port=27017
+user=muser
+pass=muser
+db=system_log
+collection=system_log_list

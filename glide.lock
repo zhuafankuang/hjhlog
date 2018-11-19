@@ -1,0 +1,26 @@
+hash: b0d9a5fa1d086e97a7c0c091ee0a0e0c60cda73d42567ae7e9f6caa7d50c9b07
+updated: 2018-10-24T11:24:07.147053+08:00
+imports:
+- name: github.com/fvbock/endless
+  version: 447134032cb6a86814f570257390a379982dfc61
+- name: github.com/garyburd/redigo
+  version: 9c11da706d9b7902c6da69c592f75637793fe121
+  subpackages:
+  - redis
+- name: github.com/gin-gonic/gin
+  version: b869fe1415e4b9eb52f247441830d502aece2d4d
+- name: github.com/go-mgo/mgo
+  version: 7446a0344b7872c067b3d6e1b7642571eafbae17
+- name: github.com/JeffreyDing11223/kago
+  version: 04f7f4847b5451d3bfbebc6e200a217d160b2e4d
+- name: github.com/Shopify/sarama
+  version: ec843464b50d4c8b56403ec9d589cf41ea30e722
+- name: github.com/sony/sonyflake
+  version: fa881fb1052b152e977c41023052c2f2a1c475e9
+- name: github.com/wonderivan/logger
+  version: 419960ddc6faa1f17ad45c85602caef4a66c6f81
+- name: gopkg.in/mgo.v2
+  version: 9856a29383ce1c59f308dd1cf0363a79b5bef6b5
+  subpackages:
+  - bson
+testImports: []
